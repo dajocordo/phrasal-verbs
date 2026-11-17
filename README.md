@@ -6,7 +6,7 @@ Colección personal de phrasal verbs en inglés, con significado, traducción al
 
 | Phrasal verb | Significado |
 |---|---|
-| [use up](phrasal-verbs/use-up.md) | Consumir por completo, agotar |
+| [use up](library/use-up.md) | Consumir por completo, agotar |
 
 ## Formato de cada archivo
 
